@@ -522,7 +522,7 @@ includes  |         | tasks%2C%20subjects
 
 
 <!-- UPDATE FORM INSTANCE -->
-## Update Form Data
+## Update Form Instance
 
 `PATCH https://subjects/<SUBJECT_ID>/visits/<VISIT_ID>/forms/<FORM_ID>/instances/<INSTANCE_ID>`
 
